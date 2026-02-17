@@ -7,7 +7,7 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - Passionate about building scalable apps and intelligent systems  
 - Work across mobile, frontend, AI, and low-level domains  
@@ -19,7 +19,7 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Advanced Android & Flutter development  
 - Frontend performance optimization  
@@ -29,45 +29,45 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 
 ---
 
-# 🧩 Tech Stack
+#  Tech Stack
 
-## 💻 Languages
+##  Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,flutter,kotlin,html" />
 </p>
 
-## 🖥 Systems & Platforms
+##  Systems & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,fedora" />
 </p>
 
 
-## 🔐 Security & Networking
+##  Security & Networking
 <p>
 <img src="https://skillicons.dev/icons?i=windows,linux,docker" />
 </p>
 
 
-## 🗄 Database & Storage
+##  Database & Storage
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 
-## 🤖 AI / ML
+##  AI / ML
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 
 
-## 🛠 Tooling
+##  Tooling
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,pycharm," />
 </p>
 
 
-## ☁ Hosting
+##  Hosting
 <p>
 <img src="https://skillicons.dev/icons?i=github,vercel,firebase" />
 </p>
@@ -75,7 +75,7 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 
 ---
 
-# 📊 Analytics Dashboard
+#  Analytics Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IntegrationGOAT&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
@@ -98,7 +98,7 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 
 ---
 
-# ⭐ Featured Work
+#  Featured Work
 
 <!-- Add your best repositories here -->
 
