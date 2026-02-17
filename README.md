@@ -24,7 +24,7 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 ##  Current Focus
 
 - Advanced Android & Flutter development  
-- AI + YOLO-based real-time systems  
+- AI based real-time systems  
 - Robotics experimentation  
 - Graphics & low-level systems exploration  
 
