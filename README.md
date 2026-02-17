@@ -5,6 +5,13 @@
 Building across layers — from mobile apps and frontend systems to robotics, AI, and graphics.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IntegrationGOAT&label=PROFILE%20VIEWS&color=44475a&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/IntegrationGOAT?label=FOLLOWERS&style=for-the-badge&color=bd93f9" />
+  <img src="https://img.shields.io/github/stars/IntegrationGOAT?label=STARS&style=for-the-badge&color=ff79c6" />
+</p>
+
+
 ---
 
 ##  About Me
