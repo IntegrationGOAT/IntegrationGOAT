@@ -5,11 +5,9 @@
 Building across layers — from mobile apps and frontend systems to robotics, AI, and graphics.
 </p>
 
-
-
 ---
 
-##  About Me
+## About Me
 
 - Passionate about building scalable apps and intelligent systems  
 - Work across mobile, frontend, AI, and low-level domains  
@@ -17,11 +15,9 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 - Love combining hardware + software  
 - Always exploring deeper layers of systems  
 
-<!-- You can modify this section later -->
-
 ---
 
-##  Current Focus
+## Current Focus
 
 - Advanced Android & Flutter development  
 - AI based real-time systems  
@@ -30,81 +26,75 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 
 ---
 
-#  Tech Stack
+# Tech Stack
 
-##  Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,flutter,kotlin,html" />
+## Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,flutter,kotlin,html" />
 </p>
 
-##  Systems & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,fedora" />
+## Systems & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,fedora" />
 </p>
 
-
-##  Security & Networking
-<p>
-<img src="https://skillicons.dev/icons?i=windows,linux,docker" />
+## Security & Networking
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,docker" />
 </p>
 
-
-##  Database & Storage
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+## Database & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-
-##  AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+## AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-
-
-##  Tooling
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,pycharm," />
+## Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,pycharm" />
 </p>
 
-
-##  Hosting
-<p>
-<img src="https://skillicons.dev/icons?i=github,vercel,firebase" />
+## Hosting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vercel,firebase" />
 </p>
-
 
 ---
 
-#  Analytics Dashboard
+# Analytics Dashboard
 
+<!-- Top Row -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IntegrationGOAT&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntegrationGOAT&layout=compact&theme=dracula&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IntegrationGOAT&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntegrationGOAT&layout=compact&theme=dracula&hide_border=true" height="190"/>
 </p>
 
+<!-- Full Width Graph -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IntegrationGOAT&theme=dracula" />
 </p>
 
+<!-- Languages Row -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IntegrationGOAT&theme=dracula" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IntegrationGOAT&theme=dracula" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IntegrationGOAT&theme=dracula" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IntegrationGOAT&theme=dracula" height="200"/>
 </p>
 
+<!-- Stats Row -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IntegrationGOAT&theme=dracula" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IntegrationGOAT&theme=dracula&utcOffset=5.5" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IntegrationGOAT&theme=dracula" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IntegrationGOAT&theme=dracula&utcOffset=5.5" height="200"/>
 </p>
 
 ---
 
-#  Featured Work
+# Featured Work
 
-<!-- Add your best repositories here -->
-
-- 🔹 GarbhSuraksha: AI and Android-based fetal heartbeat classification application  
-- 🔹 SafeNex: Web-based innovative project demonstration to prevent post-accident fuel tank explosions by using smart emulsification [presented at CBSE Regional Science 2025]
-- 🔹 Nexora: Android-based application for students to provide a distraction-free study environment
-- 🔹 Edora: Web-based frontend for revolutionzing education by connecting mentors and students through research-driven learning
-
+- 🔹 **GarbhSuraksha** – AI & Android-based fetal heartbeat classification system  
+- 🔹 **SafeNex** – Web-based system to prevent post-accident fuel tank explosions (CBSE Regional Science 2025)  
+- 🔹 **Nexora** – Android app providing distraction-free study environment  
+- 🔹 **Edora** – Web frontend connecting mentors and students through research-driven learning  
