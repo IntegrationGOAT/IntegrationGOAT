@@ -5,11 +5,6 @@
 Building across layers — from mobile apps and frontend systems to robotics, AI, and graphics.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-790-44475a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Followers-21-6272a4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stars-15-ff79c6?style=for-the-badge" />
-</p>
 
 
 ---
@@ -29,7 +24,6 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 ##  Current Focus
 
 - Advanced Android & Flutter development  
-- Frontend performance optimization  
 - AI + YOLO-based real-time systems  
 - Robotics experimentation  
 - Graphics & low-level systems exploration  
@@ -109,7 +103,8 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 
 <!-- Add your best repositories here -->
 
-- 🔹 Project 1 – Description  
-- 🔹 Project 2 – Description  
-- 🔹 Project 3 – Description  
+- 🔹 GarbhSuraksha: AI and Android-based fetal heartbeat classification application  
+- 🔹 SafeNex: Web-based innovative project demonstration to prevent post-accident fuel tank explosions by using smart emulsification [presented at CBSE Regional Science 2025]
+- 🔹 Nexora: Android-based application for students to provide a distraction-free study environment
+- 🔹 Edora: Web-based frontend for revolutionzing education by connecting mentors and students through research-driven learning
 
