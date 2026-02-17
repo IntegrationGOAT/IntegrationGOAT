@@ -33,7 +33,7 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 
 ## 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,flutter,kotlin,html" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,flutter,kotlin,html" />
 </p>
 
 ## 🖥 Systems & Platforms
@@ -41,42 +41,37 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,fedora" />
 </p>
 
-EndeavourOS (Arch-based)
 
 ## 🔐 Security & Networking
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker" />
+<img src="https://skillicons.dev/icons?i=windows,linux,docker" />
 </p>
 
-OpenSSL
 
 ## 🗄 Database & Storage
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-Prisma Schema
 
 ## 🤖 AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-YOLO • Ultralytics
+
 
 ## 🛠 Tooling
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,pycharm" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,pycharm," />
 </p>
 
-Google Antigravity
 
 ## ☁ Hosting
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,firebase" />
+<img src="https://skillicons.dev/icons?i=github,vercel,firebase" />
 </p>
 
-GitHub Pages • Render
 
 ---
 
