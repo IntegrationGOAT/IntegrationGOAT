@@ -1,4 +1,4 @@
-<h1 align="center">Jeet</h1>
+<h1 align="center">Jeet Baidya</h1>
 <h3 align="center">Android • Web • Robotics • AI • Low-Level • Graphics</h3>
 
 <p align="center">
