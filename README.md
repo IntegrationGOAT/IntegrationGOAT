@@ -75,19 +75,25 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IntegrationGOAT&show_icons=true&theme=dracula&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IntegrationGOAT&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IntegrationGOAT&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntegrationGOAT&layout=compact&theme=dracula&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntegrationGOAT&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IntegrationGOAT&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IntegrationGOAT&theme=dracula&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IntegrationGOAT&theme=dracula" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IntegrationGOAT&theme=dracula" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IntegrationGOAT&theme=dracula" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IntegrationGOAT&theme=dracula&utcOffset=5.5" height="180"/>
 </p>
 
 ---
