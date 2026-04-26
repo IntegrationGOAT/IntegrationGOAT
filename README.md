@@ -93,4 +93,4 @@ Building across layers — from mobile apps and frontend systems to robotics, AI
 - 🔹 GarbhSuraksha: AI and Android-based fetal heartbeat classification application
 - 🔹 SafeNex: Web-based innovative project demonstration to prevent post-accident fuel tank explosions by using smart emulsification [presented at CBSE Regional Science 2025]
 - 🔹 Nexora: Android-based application for students to provide a distraction-free study environment
-- 🔹 Edora: Web-based frontend for revolutionzing education by connecting mentors and students through research-driven learning
+- 🔹 NavSightAi: Python and ultralytics based real-time obstacle detection and avoidance for elderly and specially-abled citizens
